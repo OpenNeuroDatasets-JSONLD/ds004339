@@ -4,6 +4,23 @@
         "Description": "Gender",
         "Levels": {
             "M": "Man",
-            "F": "Woman"        }
+            "F": "Woman"
+        },
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:Sex",
+                "Label": ""
+            },
+            "Levels": {
+                "F": {
+                    "TermURL": "snomed:248152002",
+                    "Label": ""
+                },
+                "M": {
+                    "TermURL": "snomed:248153007",
+                    "Label": ""
+                }
+            }
+        }
     }
 }
